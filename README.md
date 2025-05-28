@@ -1,6 +1,6 @@
 This is a 1 Click installer based on the trellis 1 click installer with a embeded Python install , i hade to add and modify the batch files extensivly to make it work based on : <a href="https://github.com/IgorAherne/trellis-stable-projectorz">Igor Aherne 2025</a>
 
-Usage just Click on the run-gradio.bat file , while installing it will ask you to scroll up and check your cuda version and chose the closest one to you 1-6 avalible cuda cu118,cu121,cu124,cu126 and cu128) 
+Usage just Click on the run-gradio.bat file , while installing it will ask you to scroll up and check your cuda version and chose the closest one to you 1-3 avalible cuda (cu124,cu126, cpu) 
 
 Youtube Video will be posted <a href="https://www.youtube.com/@RetroUpgrade" >RetroUpgrade - Youtube</a> showing the usage of the installer. 
 Video Guide and demo of the 1 click installer : comming soon 
